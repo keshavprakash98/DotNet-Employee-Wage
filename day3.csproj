@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>day3.emplyPrAb</StartupObject>
+    <StartupObject>day3.UC4</StartupObject>
   </PropertyGroup>
 
 </Project>
